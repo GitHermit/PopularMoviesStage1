@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies Stage 1</string>
+    <string name="most_popular">Most popular</string>
+    <string name="highest_rated">Highest rated</string>
+    <string name="favorites">Favorites</string>
+    <string name ="un_favorite">Remove From Favorites</string>
+    <string name ="add_favorite">Add to Favorites</string>
+    <string name="detail_error_message">Movie data not available</string>
+    <string name="attribute">All images and data come from themoviedb.org</string>
+    <string name="database">Movie Database</string>
+</resources>
